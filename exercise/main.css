@@ -1,0 +1,20 @@
+/*p {
+    color: peachpuff;
+    background-color: dodgerblue;
+    
+}*/
+
+.hotshot{
+    border: 10px groove burlywood
+}
+#main{
+    background-color: blanchedalmond;
+    color: green;
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+}
+.hotshot > span{
+    color: purple;
+    margin: 20px !important;
+}
