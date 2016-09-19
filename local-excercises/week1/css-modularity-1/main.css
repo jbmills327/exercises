@@ -1,0 +1,54 @@
+/* ADD YOUR STYLES HERE */
+.first-table{
+    width: 100%;
+    font-size: 17px;
+    text-align: left;
+    height: 30px;
+    
+}
+.stupid-table{
+    border-bottom: 1px solid gray;
+}
+.sean{
+  
+  padding: 10px;
+}
+.another-table{
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+}
+.second-table{
+    width: 33%;
+}
+.numbers-baby{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 15px;
+   
+}
+.not-numbers{
+    position: relative;
+    text-align: center;
+    color: gray;
+    padding-bottom: 15px;
+    
+}
+.more-numbers{
+    color: white;
+    background-color: #4099ff;
+    height: 20px;
+    border-radius: 0px 5px 5px 0px;
+    
+}
+.bar-graph-one{
+    width: 100%;
+}
+
+.cowbell{
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+
