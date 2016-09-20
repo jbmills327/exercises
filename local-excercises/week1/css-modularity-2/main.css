@@ -10,10 +10,10 @@
 }
 .buy-now{
    display: inline-block;
-   border: 1px solid black;
+   /*border: 1px solid black;*/
    background: red;
    padding: 20px 60px;
-   border-radius: 10px;
+   border-radius: 7px;
    color: white;
    font-size: 25px;
    text-decoration: none;
@@ -24,15 +24,58 @@
  }
  .learn-more{
    display: inline-block;
-   border: 1px solid black;
+   /*border: 1px solid black;*/
    background: red;
-   padding: 20px 60px;
-   border-radius: 10px;
+   padding: 10px 40px;
+   border-radius: 7px;
    color: white;
-   font-size: 25px;
+   font-size: 17px;
    text-decoration: none;
    vertical-align: middle;
    opacity: .5;
    /*position: absolute;*/
-   margin-left: 30px;
  }
+ .ok-button{
+   display: inline-block;
+   /*border: 1px solid black;*/
+   background: red;
+   padding: 5px 10px;
+   border-radius: 7px;
+   color: white;
+   font-size: 13px;
+   text-decoration: none;
+   vertical-align: middle;
+   opacity: .5;
+   /*position: absolute;*/   
+ }
+ .learn-two{
+   display: inline-block;
+   /*border: 1px solid black;*/
+   background: red;
+   padding: 10px 40px;
+   border-radius: 7px;
+   color: white;
+   font-size: 17px;
+   text-decoration: none;
+   vertical-align: middle;
+   opacity: .5;
+   /*position: absolute;*/
+   border-style: solid;
+   border: none;
+ }
+ nav{
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+     padding: 5px 10px;
+     background-color: red;
+     opacity: .5;
+     vertical-align: middle;
+     border-radius: 7px;
+ }
+.list-stuff{
+     color: white;
+     font-size: 17px;
+     text-decoration: none;
+     list-style: none;
+}
